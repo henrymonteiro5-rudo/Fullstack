@@ -1,0 +1,102 @@
+body{
+background:#cfcfcf;
+margin:0;
+text-align:center;
+}
+
+.Introducao p{
+color: purple;
+font-family:sans-serif;
+}
+
+header{
+background:#e8d2b0;
+border:3px solid navy;
+padding:20px;
+position:relative;
+}
+
+footer{background:#e8d2b0;
+padding:15px;
+position:relative;
+}
+
+.rodapé{
+    margin-top:30px;
+}
+
+.logo-esq{
+position:absolute;
+left:20px;
+top:20px;
+width:80px;
+}
+
+.logo-esq1{
+position:absolute;
+left:20px;
+top:20px;
+width:80px;
+}
+
+.logo-dir{
+position:absolute;
+right:20px;
+top:20px;
+width:80px;
+}
+
+.logo-dir1{
+position:absolute;
+right:20px;
+top:20px;
+width:60px;
+}
+
+nav{
+background:#7fb6da;
+padding:10px;
+}
+
+nav a{
+margin:20px;
+text-decoration:none;
+color:darkred;
+font-weight:bold;
+}
+
+nav a:hover{
+color:black;
+}
+
+.livros img{
+width:200px;
+margin:20px;
+}
+
+.midia{
+display:flex;
+justify-content:center;
+gap:50px;
+margin:30px;
+}
+
+table{
+margin:auto;
+border:3px dashed red;
+}
+
+th,td{
+border:1px solid rgb(221, 32, 32);
+padding:10px;
+}
+
+
+.Nome {
+color: rgb(228, 15, 15);
+}
+
+.Email {
+color: rgb(214, 16, 16);
+}
+
