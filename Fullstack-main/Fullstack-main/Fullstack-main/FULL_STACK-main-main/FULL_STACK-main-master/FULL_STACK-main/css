@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Aula 2</title>
+        <meta charset="utf_8">
+        <style>
+            p{
+                color: blue
+                background-color green
+
+            }
+        </style>
+    </head>
+    <body>
+        <h1 style=" color: red" >Aula 2</h1>
+        <p id="p1"> Exemplo de estilização</p>
+        <p id2="p2">Novo paragrafo</p>
+
+        <p> Class="pb" preto e branco1</p>
+        <p> Class="pb" preto e branco2</p>
+
+        <a href="https://portal.fei.edu.br/">
+    </body>
+</html> 
