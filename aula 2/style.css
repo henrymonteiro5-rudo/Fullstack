@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(208, 235, 236);
+}
+
+p{
+    font-size: 25px;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#titulo{
+    font-size: 40px;
+    color: darkgray;
+    text-align: center;
+}   
+
+.paragrafo{
+    background-color: aliceblue;
+}
+
+.verde{
+    color: rgb(0, 255, 170);
+}
+
+.tam{
+    font-size: 36px;
+}
+
+div p{
+    margin: 40px;
+    padding: 10px;
+}
+
+div p:hover{
+    background-color: rgb(109, 7, 7);
+    color: black;
+}
