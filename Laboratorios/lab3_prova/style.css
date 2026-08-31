@@ -1,0 +1,80 @@
+p{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 20pt;
+}
+
+#p1{
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 15pt;
+}
+
+h1{
+    text-align: center;
+    color: darkgreen;
+}
+
+h2{
+    text-align: center;
+}
+
+
+.tracejado{
+    border: 5px dashed red;
+}
+
+
+#topo{
+    background-color: bisque;
+    border: 5px solid darkblue;
+    align-items: center;
+}
+
+#rodape{
+    background-color: bisque;
+    align-items: center;
+}
+
+body{
+    background-color: lightgray;
+}
+
+#c1{
+    position: absolute;
+    left: 10px;
+}
+
+#j1{
+    position: absolute;
+    right: 100px;
+}
+
+
+#h1{position: absolute;
+    left: 10px;}
+
+#c2{position: absolute;
+    right: 100px;}
+
+
+#subtopo{
+    background-color: lightskyblue;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+#livros{
+    position: relative;
+    left: 680px;
+}
+
+#videos{
+    position: relative;
+    left: 640px;
+}
+
+#contatos{
+    position: relative;
+    left: 780px;
+}
