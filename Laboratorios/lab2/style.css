@@ -1,12 +1,38 @@
 #proj{
+    margin: 0;
+    padding-top: 30px;
     font-size: 40px;
+    height: 85px;
+    background-color: #1f2937;
+    border-radius: 10px;
+}
+
+h1{
+    color: white;
 }
 
 body{
+    margin: 0;
     text-align: center;
+    background-color: #464753;
 }
 
 div a:hover{
-    font-size: 20px;
+    font-size: 25px;
     text-decoration: underline;
+     color: #1f2937;
+}
+
+#topo{
+    height: 40px;
+    background-color: #4f798b;
+    padding-top: 15px;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 8px 12px #222222;
+}
+.tabela{
+     margin-top: 40px;
+     color: #bdc2c0;
+     border-color: rgb(60, 37, 73);
 }
